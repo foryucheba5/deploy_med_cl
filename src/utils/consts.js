@@ -1,0 +1,8 @@
+export const LOGIN_ROUTE = '/login'
+export const PATIENTS_ROUTE = '/patients'
+export const REGISTRATION_ROUTE = '/registration'
+export const CREATE_PATIENT_ROUTE = '/create/patient'
+export const VIEW_PATIENT_ROUTE = '/patientView'
+export const CREATE_PROTOCOL_ROUTE = '/create/protocol'
+export const VIEW_PROTOCOL_ROUTE = '/protocolView'
+export const CREATE_PATTERN_ROUTE ='create/pattern'
